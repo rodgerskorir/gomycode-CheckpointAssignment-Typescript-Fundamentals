@@ -34,6 +34,3 @@ This project demonstrates basic TypeScript fundamentals by defining an interface
 
 ### 1. Clone or Download the Repo
 
-```bash
-git clone https://github.com/yourusername/ts-vehicle-example.git
-cd ts-vehicle-example
